@@ -7,7 +7,7 @@ int main(){
   while(1){
     redLED = 1;
     greenLED = 0;
-    wait(0.5);
+    wait(0.8);
     redLED = 0;
     greenLED = 1;
     wait(1.0);
